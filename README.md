@@ -4,8 +4,7 @@
 <p align='center'>
 
   [![visitors](https://visitor-badge.glitch.me/badge?page_id=ajinkyabhandare.ajinkyabhandare)](https://visitor-badge.glitch.me/badge?page_id=ajinkyabhandare.ajinkyabhandare)
-  [![wakatime](https://wakatime.com/badge/user/380570cf-30bd-4b71-8ac3-ea422ccb6dff.svg)](https://wakatime.com/@380570cf-30bd-4b71-8ac3-ea422ccb6dff)
-</p>
+ </p>
 
 
 <div size='20px'> Hi! My name is Ajinkya. Thank You for taking the time to view my GitHub Profile :smile: </div>
